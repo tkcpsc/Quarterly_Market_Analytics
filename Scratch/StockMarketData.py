@@ -29,7 +29,7 @@ tickers = getTopTickers('https://finance.yahoo.com/most-active')
 
 # Set the date range for the last 5 years
 end_date = datetime.now().strftime('%Y-%m-%d')
-start_date = (datetime.now() - timedelta(days=5*365)).strftime('%Y-%m-%d')
+start_date = (datetime.now() - timedelta(days=5.2*365)).strftime('%Y-%m-%d')
 
 # Create an empty DataFrame to store the closing prices
 closing_prices_df = pd.DataFrame()
