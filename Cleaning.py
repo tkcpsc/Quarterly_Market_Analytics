@@ -1,3 +1,6 @@
+# initial script to merge earnings dates and market values. 
+# this script was retired for accuracy issues.
+
 import pandas as pd
 import numpy as np
 

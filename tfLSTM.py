@@ -1,3 +1,9 @@
+# early attempt to use tensorflow for the model
+
+
+
+
+
 '''import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense

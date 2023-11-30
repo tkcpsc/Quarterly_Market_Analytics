@@ -1,3 +1,7 @@
+# main script
+# this script struggles pulling data due to the poor maintainance of the earnings reports dependency.
+# README.md for more into
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

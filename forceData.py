@@ -1,3 +1,5 @@
+# this script i made as i had to manually concatnate earnings dates and my stock market values.
+
 import pandas as pd
 import yfinance as yf
 from datetime import datetime
